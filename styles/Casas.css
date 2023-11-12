@@ -1,0 +1,16 @@
+/*MAIN*/
+.logo {
+    float: right;
+    margin: 0 0 20px 20px ;
+}
+
+.room {
+    width: 100%;
+}
+
+
+.vestimenta {
+    display: block;
+    width: 25%;
+    margin: auto;
+}    

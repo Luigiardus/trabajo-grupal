@@ -1,0 +1,41 @@
+/*MAIN*/
+.hogwarts {
+    margin: 50px auto;
+    background-color: rgba(231, 213, 189, 0.651);
+    padding: 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+}
+
+.sistCasas {
+    width: 100%;
+}
+
+.boleto {
+    float: right;
+    width: 25%;
+    margin: 0 0 20px 20px ;
+}
+
+.casas_boton {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: black;
+    display: inline-block;
+    padding: 10px 15px;
+    width: 20%;
+    transition: 0.3s;
+}
+
+.casas_boton:hover {
+    background-color: rgb(58, 58, 58);
+}
+
+.carta {
+    display: block;
+    width: 100%;
+    margin: auto;
+}
