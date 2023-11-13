@@ -1,7 +1,7 @@
 /*MAIN*/
 .hogwarts {
     margin: 50px auto;
-    background-color: rgba(231, 213, 189, 0.651);
+    background-color: white;
     padding: 10px 50px;
     display: flex;
     align-items: center;
